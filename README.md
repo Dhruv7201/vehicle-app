@@ -1,4 +1,4 @@
-# ethics-utdb-vehicle-app: A Responsible Vehicle Tracking System
+# vehicle-app: A Responsible Vehicle Tracking System
 
 Introduction
 
