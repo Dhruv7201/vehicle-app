@@ -36,7 +36,7 @@ const Gmap: React.FC<GmapProps> = ({ dateRange, devices }) => {
 
   const { isLoaded } = useJsApiLoader({
     id: "google-map-script",
-    googleMapsApiKey: "AIzaSyB8OQXaMtBsmYUIk7Aoste59ipKJYjCIqs",
+    googleMapsApiKey: "maps-key",
   });
 
   const handleCloseSummary = () => {
